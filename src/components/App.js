@@ -4,7 +4,7 @@ import './App.scss';
 const App = () => (
 	<div className="full-screen">
 		<div>
-			<h1>Hello World</h1>
+			<h1>A React App</h1>
 		</div>
 	</div>
 );
